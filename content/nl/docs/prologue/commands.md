@@ -15,7 +15,7 @@ toc: true
 
 {{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
 
-## create
+<!-- ## create
 
 Create new content for your site:
 
@@ -95,4 +95,4 @@ Build production website including draft and future content:
 
 ```bash
 npm run build:preview
-```
+``` -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Introduction"
 description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
@@ -55,4 +55,4 @@ Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/
 
 ## Help
 
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
+Get help on Doks. [Help →]({{< relref "how-to-update" >}}) -->

@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-## Get started
+<!-- ## Get started
 
 There are two main ways to get started with Doks:
 
@@ -55,4 +55,4 @@ Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/
 
 ## Help
 
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
+Get help on Doks. [Help →]({{< relref "how-to-update" >}}) -->

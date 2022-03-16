@@ -7,6 +7,7 @@ draft: true
 images: []
 ---
 
+<!--
 __TLDR__: We do not use cookies and we do not collect any personal data.
 
 ## Website visitors
@@ -33,4 +34,4 @@ We run [Plausible](https://plausible.io/) analytics on getdoks.org. The followin
 
 [Contact us]({{< ref "contact/index.md" >}}) if you have any questions.
 
-Effective Date: _27th August 2020_
+Effective Date: _27th August 2020_ -->

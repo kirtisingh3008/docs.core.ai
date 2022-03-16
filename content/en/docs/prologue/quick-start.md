@@ -13,6 +13,7 @@ weight: 110
 toc: true
 ---
 
+<!--
 ## Requirements
 
 Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
@@ -66,4 +67,4 @@ Doks will start the Hugo development webserver accessible by default at `http://
 
 ## Other commands
 
-Doks comes with commands for common tasks. [Commands →]({{< relref "commands" >}})
+Doks comes with commands for common tasks. [Commands →]({{< relref "commands" >}}) -->
